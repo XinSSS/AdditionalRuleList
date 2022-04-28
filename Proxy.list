@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,doorbellprod.azurewebsites.net
 DOMAIN-SUFFIX,backtrace.io
 DOMAIN-SUFFIX,respawn.com
 DOMAIN-SUFFIX,install.appcenter.ms
+DOMAIN-SUFFIX,mobilecenter.azureedge.net
 DOMAIN-SUFFIX,appcenter*.azureedge.net
 DOMAIN-KEYWORD,majsoul
 DOMAIN-KEYWORD,maj-soul
