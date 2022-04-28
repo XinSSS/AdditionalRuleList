@@ -27,5 +27,7 @@ DOMAIN-SUFFIX,cloud.unity3d.com
 DOMAIN-SUFFIX,doorbellprod.azurewebsites.net
 DOMAIN-SUFFIX,backtrace.io
 DOMAIN-SUFFIX,respawn.com
+DOMAIN-SUFFIX,install.appcenter.ms
+DOMAIN-SUFFIX,appcenter*.azureedge.net
 DOMAIN-KEYWORD,majsoul
 DOMAIN-KEYWORD,maj-soul
