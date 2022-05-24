@@ -1,7 +1,7 @@
-PROCESS-NAME,uTorrent.exe,DIRECT
-PROCESS-NAME,qbittorrent.exe,DIRECT
-PROCESS-NAME,BitComet.exe,DIRECT
-PROCESS-NAME,BitComet_x64.exe,DIRECT
-PROCESS-NAME,parsecd.exe,DIRECT
-PROCESS-NAME,pservice.exe,DIRECT
-PROCESS-NAME,teams.exe,DIRECT
+PROCESS-NAME,uTorrent.exe
+PROCESS-NAME,qbittorrent.exe
+PROCESS-NAME,BitComet.exe
+PROCESS-NAME,BitComet_x64.exe
+PROCESS-NAME,parsecd.exe
+PROCESS-NAME,pservice.exe
+PROCESS-NAME,teams.exe
