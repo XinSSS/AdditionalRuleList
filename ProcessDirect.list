@@ -1,0 +1,4 @@
+PROCESS-NAME,uTorrent.exe,DIRECT
+PROCESS-NAME,qbittorrent.exe,DIRECT
+PROCESS-NAME,BitComet.exe,DIRECT
+PROCESS-NAME,BitComet_x64.exe,DIRECT
