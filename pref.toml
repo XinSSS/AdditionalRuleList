@@ -149,7 +149,7 @@ write_managed_config = true
 managed_config_prefix = "http://192.168.1.154:25500"
 
 # Managed config update interval in seconds, determine how long the config will be updated.
-config_update_interval = 86400
+config_update_interval = 432000
 
 # If config_update_strict is set to true, Surge will require a force update after the interval.
 config_update_strict = false
