@@ -11,3 +11,4 @@ PROCESS-NAME,GsExplorer.exe
 PROCESS-NAME,gs-runner.exe
 PROCESS-NAME,gs-server.exe
 PROCESS-NAME,gsync.exe
+PROCESS-NAME,syncthing.exe
