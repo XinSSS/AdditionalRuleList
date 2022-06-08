@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,info_hash
 DOMAIN-KEYWORD,get_peers
 DOMAIN-KEYWORD,find_node
 DOMAIN-KEYWORD,announce_peer
+DOMAIN-SUFFIX,downloadtorrentfile.com
 DOMAIN-SUFFIX,bz2021.com
 DOMAIN-SUFFIX,ajax.cloudflare.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
