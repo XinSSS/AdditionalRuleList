@@ -7,6 +7,8 @@ DOMAIN-KEYWORD,get_peers
 DOMAIN-KEYWORD,find_node
 DOMAIN-KEYWORD,announce_peer
 DOMAIN-SUFFIX,downloadtorrentfile.com
+DOMAIN-SUFFIX,torrentgalaxy.to
+DOMAIN-SUFFIX,torrentdownloads.pro
 DOMAIN-SUFFIX,bz2021.com
 DOMAIN-SUFFIX,ajax.cloudflare.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
