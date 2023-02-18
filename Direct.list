@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX,zxcs.me
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,announce.php?passkey=
 DOMAIN-KEYWORD,peer_id=
@@ -6,18 +5,3 @@ DOMAIN-KEYWORD,info_hash
 DOMAIN-KEYWORD,get_peers
 DOMAIN-KEYWORD,find_node
 DOMAIN-KEYWORD,announce_peer
-DOMAIN-SUFFIX,downloadtorrentfile.com
-DOMAIN-SUFFIX,torrentgalaxy.to
-DOMAIN-SUFFIX,torrentdownloads.pro
-DOMAIN-SUFFIX,torrent911.org
-DOMAIN-SUFFIX,ajax.cloudflare.com
-DOMAIN-SUFFIX,cdnjs.cloudflare.com
-DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,n1.com
-DOMAIN-SUFFIX,atpanel.com
-DOMAIN-SUFFIX,plex.tv
-DOMAIN-SUFFIX,me.plexapp.com
-DOMAIN-SUFFIX,plex.direct
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,goodsync.com
-DOMAIN-SUFFIX,safelinks.protection.outlook.com
