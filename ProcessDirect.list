@@ -13,3 +13,10 @@ PROCESS-NAME,gs-server.exe
 PROCESS-NAME,gsync.exe
 PROCESS-NAME,syncthing.exe
 PROCESS-NAME,aria2c.exe
+PROCESS-NAME,QuarkCloudDrive.exe
+PROCESS-NAME,baidunetdisk.exe
+PROCESS-NAME,aDrive.exe
+PROCESS-NAME,115chrome.exe
+PROCESS-NAME,115.exe
+PROCESS-NAME,DouyuLive.exe
+PROCESS-NAME,哔哩哔哩.exe
