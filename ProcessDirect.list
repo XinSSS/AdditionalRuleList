@@ -20,6 +20,7 @@ PROCESS-NAME,aDrive.exe
 PROCESS-NAME,115chrome.exe
 PROCESS-NAME,115.exe
 PROCESS-NAME,DouyuLive.exe
+PROCESS-NAME,RpcMediaDecoderEx.exe
 PROCESS-NAME,哔哩哔哩.exe
 PROCESS-NAME,QQ.exe
 PROCESS-NAME,CBox.exe
