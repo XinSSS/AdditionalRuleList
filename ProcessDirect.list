@@ -19,6 +19,7 @@ PROCESS-NAME,baidunetdiskhost.exe
 PROCESS-NAME,aDrive.exe
 PROCESS-NAME,115chrome.exe
 PROCESS-NAME,PikPak.exe
+PROCESS-NAME,DownloadServer.exe
 PROCESS-NAME,115.exe
 PROCESS-NAME,DouyuLive.exe
 PROCESS-NAME,RpcMediaDecoderEx.exe
