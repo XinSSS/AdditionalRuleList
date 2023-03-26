@@ -217,8 +217,9 @@ dns:
     - +.shark007.net
     - +.shaoxs.top
     - +.termux.org
-    - +.codest.me
     - +.haoduopan.cn
+    - +.cmbchina.com
+    - +.cmbimg.com
 
   # 如果使用 nameserver 列表中的服务器解析的 IP 地址在下方列表中的子网中，则它们被认为是无效的，
   # Clash 会选用 fallback 列表中配置 DNS 服务器解析得到的结果。
