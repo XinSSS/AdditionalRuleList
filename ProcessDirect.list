@@ -21,6 +21,10 @@ PROCESS-NAME,115chrome.exe
 PROCESS-NAME,PikPak.exe
 PROCESS-NAME,DownloadServer.exe
 PROCESS-NAME,115.exe
+PROCESS-NAME,uu.exe
+PROCESS-NAME,uu_ball.exe
+PROCESS-NAME,uu_render.exe
+PROCESS-NAME,leigod.exe
 PROCESS-NAME,DouyuLive.exe
 PROCESS-NAME,RpcMediaDecoderEx.exe
 PROCESS-NAME,哔哩哔哩.exe
