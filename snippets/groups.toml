@@ -196,7 +196,7 @@ name = "BaozimhCN"
 type = "select"
 rule = [
     "[]DIRECT",
-    "[]TW,
+    "[]TW",
     "[]SG",
     "[]JP",
     "[]HK",
