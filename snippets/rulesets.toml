@@ -1,0 +1,112 @@
+[[rulesets]]
+group = "OutLan"
+ruleset = "rules/AdditionalRuleList/OutLan.list"
+
+[[rulesets]]
+group = "CustomDirect"
+ruleset = "rules/AdditionalRuleList/CustomDirect.list"
+
+[[rulesets]]
+group = "CustomProxy"
+ruleset = "rules/AdditionalRuleList/CustomProxy.list"
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "rules/AdditionalRuleList/ProcessDirect.list"
+
+[[rulesets]]
+group = "Proxies"
+ruleset = "rules/AdditionalRuleList/Proxy.list"
+
+[[rulesets]]
+group = "China"
+ruleset = "rules/AdditionalRuleList/Direct.list"
+
+[[rulesets]]
+group = "GMail"
+ruleset = "rules/AdditionalRuleList/GMail.list"
+
+[[rulesets]]
+group = "Steam"
+ruleset = "rules/AdditionalRuleList/Steam.list"
+
+[[rulesets]]
+group = "Xbox"
+ruleset = "rules/DivineEngine/Surge/Ruleset/Extra/Game/Xbox.list"
+
+[[rulesets]]
+group = "OneDrive"
+ruleset = "rules/DivineEngine/Surge/Ruleset/Extra/Microsoft/OneDrive.list"
+
+[[rulesets]]
+group = "Microsoft"
+ruleset = "rules/AdditionalRuleList/Microsoft.list"
+
+[[rulesets]]
+group = "GameDirect"
+ruleset = "rules/AdditionalRuleList/GameDirect.list"
+
+[[rulesets]]
+group = "MagicArena"
+ruleset = "rules/AdditionalRuleList/MagicArena.list"
+
+[[rulesets]]
+group = "PayPal"
+ruleset = "rules/DivineEngine/Surge/Ruleset/Extra/PayPal.list"
+
+[[rulesets]]
+group = "Apple"
+ruleset = "rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list"
+
+[[rulesets]]
+group = "StreamingSE"
+ruleset = "rules/DivineEngine/Surge/Ruleset/StreamingMedia/StreamingSE.list"
+
+[[rulesets]]
+group = "Streaming"
+ruleset = "rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list"
+
+[[rulesets]]
+group = "MangaCN"
+ruleset = "rules/AdditionalRuleList/Manga/MangaCN.list"
+
+[[rulesets]]
+group = "MangaProxy"
+ruleset = "rules/AdditionalRuleList/Manga/MangaProxy.list"
+
+[[rulesets]]
+group = "BaozimhCN"
+ruleset = "rules/AdditionalRuleList/Manga/BaozimhCN.list"
+
+[[rulesets]]
+group = "Baozimh"
+ruleset = "rules/AdditionalRuleList/Manga/Baozimh.list"
+
+[[rulesets]]
+group = "Manhuagui"
+ruleset = "rules/AdditionalRuleList/Manga/Manhuagui.list"
+
+[[rulesets]]
+group = "Telegram"
+ruleset = "rules/AdditionalRuleList/Telegram.list"
+
+[[rulesets]]
+group = "Proxies"
+ruleset = "rules/DivineEngine/Surge/Ruleset/Global.list"
+
+[[rulesets]]
+group = "China"
+ruleset = "rules/DivineEngine/Surge/Ruleset/China.list"
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "rules/LocalAreaNetwork.list"
+
+[[rulesets]]
+group = "China"
+ruleset = "[]GEOIP,CN"
+
+[[rulesets]]
+group = "Final"
+ruleset = "[]FINAL"
+
