@@ -1,0 +1,7 @@
+Surge:https://github.com/VirgilClyne/iRingo/raw/main/sgmodule/TestFlight.sgmodule
+
+Quantumult X:https://github.com/VirgilClyne/iRingo/raw/main/snippet/TestFlight.snippet
+
+Stash:https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TestFlight.stoverride
+
+Loon:https://github.com/VirgilClyne/iRingo/raw/main/plugin/TestFlight.plugin
