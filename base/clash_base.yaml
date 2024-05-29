@@ -223,6 +223,9 @@ dns:
     - +.uu.163.com
     - ps.res.netease.com
     - +.mp.microsoft.com
+    - c1.microsoft.com
+    - +.s-microsoft.com
+    - storeedgefd.dsx.mp.microsoft.com
     
 
   # 如果使用 nameserver 列表中的服务器解析的 IP 地址在下方列表中的子网中，则它们被认为是无效的，
