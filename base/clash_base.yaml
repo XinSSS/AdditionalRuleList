@@ -247,11 +247,11 @@ dns:
     #   - '+.google.com'
     #   - '+.facebook.com'
     #   - '+.youtube.com'
-tun:
-  enable: true #如果需要启用 TUN 模式，请设置为 true
-  stack: system # 或 gvisor
-  auto-route: true
-  auto-detect-interface: true
+#tun:
+  #enable: true #如果需要启用 TUN 模式，请设置为 true
+  #stack: system # 或 gvisor
+  #auto-route: true
+  #auto-detect-interface: true
   #dns-hijack:
     #- tcp://8.8.8.8:53
     #- tcp://1.1.1.1:53
