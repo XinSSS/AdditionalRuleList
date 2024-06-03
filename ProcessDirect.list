@@ -2,6 +2,8 @@ PROCESS-NAME,uTorrent.exe
 PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,BitComet.exe
 PROCESS-NAME,BitComet_x64.exe
+PROCESS-NAME,transmission-qt.exe
+PROCESS-NAME,transmission-daemon.exe
 PROCESS-NAME,parsecd.exe
 PROCESS-NAME,pservice.exe
 PROCESS-NAME,teams.exe
