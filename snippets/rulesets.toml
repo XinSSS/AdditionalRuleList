@@ -1,102 +1,106 @@
 [[rulesets]]
 group = "OutLan"
-ruleset = "rules/AdditionalRuleList/OutLan.list"
+ruleset = "rules/AdditionalRuleList/rulesets/OutLan.list"
 
 [[rulesets]]
 group = "CustomDirect"
-ruleset = "rules/AdditionalRuleList/CustomDirect.list"
+ruleset = "rules/AdditionalRuleList/rulesets/CustomDirect.list"
 
 [[rulesets]]
 group = "CustomProxy"
-ruleset = "rules/AdditionalRuleList/CustomProxy.list"
+ruleset = "rules/AdditionalRuleList/rulesets/CustomProxy.list"
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "rules/AdditionalRuleList/ProcessDirect.list"
+ruleset = "rules/AdditionalRuleList/rulesets/ProcessDirect.list"
 
 [[rulesets]]
 group = "Proxies"
-ruleset = "rules/AdditionalRuleList/Proxy.list"
+ruleset = "rules/AdditionalRuleList/rulesets/Proxy.list"
 
 [[rulesets]]
 group = "China"
-ruleset = "rules/AdditionalRuleList/Direct.list"
+ruleset = "rules/AdditionalRuleList/rulesets/Direct.list"
 
 [[rulesets]]
 group = "GMail"
-ruleset = "rules/AdditionalRuleList/GMail.list"
+ruleset = "rules/AdditionalRuleList/rulesets/GMail.list"
 
 [[rulesets]]
 group = "Steam"
-ruleset = "rules/AdditionalRuleList/Steam.list"
+ruleset = "rules/AdditionalRuleList/rulesets/Steam.list"
 
 [[rulesets]]
 group = "Xbox"
-ruleset = "rules/DivineEngine/Surge/Ruleset/Extra/Game/Xbox.list"
+ruleset = "rules/AdditionalRuleList/rulesets/Xbox.list"
 
 [[rulesets]]
 group = "OneDrive"
-ruleset = "rules/DivineEngine/Surge/Ruleset/Extra/Microsoft/OneDrive.list"
+ruleset = "rules/AdditionalRuleList/rulesets/OneDrive.list"
 
 [[rulesets]]
 group = "Microsoft"
-ruleset = "rules/AdditionalRuleList/Microsoft.list"
+ruleset = "rules/AdditionalRuleList/rulesets/Microsoft.list"
+
+[[rulesets]]
+group = "AI"
+ruleset = "rules/AdditionalRuleList/rulesets/AI.list"
 
 [[rulesets]]
 group = "GameDirect"
-ruleset = "rules/AdditionalRuleList/GameDirect.list"
+ruleset = "rules/AdditionalRuleList/rulesets/GameDirect.list"
 
 [[rulesets]]
 group = "MagicArena"
-ruleset = "rules/AdditionalRuleList/MagicArena.list"
+ruleset = "rules/AdditionalRuleList/rulesets/MagicArena.list"
 
 [[rulesets]]
 group = "PayPal"
-ruleset = "rules/DivineEngine/Surge/Ruleset/Extra/PayPal.list"
+ruleset = "rules/AdditionalRuleList/rulesets/PayPal.list"
 
 [[rulesets]]
 group = "Apple"
-ruleset = "rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list"
+ruleset = "rules/AdditionalRuleList/rulesets/Apple.list"
 
 [[rulesets]]
 group = "StreamingSE"
-ruleset = "rules/DivineEngine/Surge/Ruleset/StreamingMedia/StreamingSE.list"
+ruleset = "rules/AdditionalRuleList/rulesets/StreamingSE.list"
 
 [[rulesets]]
 group = "Streaming"
-ruleset = "rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list"
+ruleset = "rules/AdditionalRuleList/rulesets/treaming.list"
 
 [[rulesets]]
 group = "MangaCN"
-ruleset = "rules/AdditionalRuleList/Manga/MangaCN.list"
+ruleset = "rules/AdditionalRuleList/rulesets/Manga/MangaCN.list"
 
 [[rulesets]]
 group = "MangaProxy"
-ruleset = "rules/AdditionalRuleList/Manga/MangaProxy.list"
+ruleset = "rules/AdditionalRuleList/rulesets/Manga/MangaProxy.list"
 
 [[rulesets]]
 group = "BaozimhCN"
-ruleset = "rules/AdditionalRuleList/Manga/BaozimhCN.list"
+ruleset = "rules/AdditionalRuleList/rulesets/Manga/BaozimhCN.list"
 
 [[rulesets]]
 group = "Baozimh"
-ruleset = "rules/AdditionalRuleList/Manga/Baozimh.list"
+ruleset = "rules/AdditionalRuleList/rulesets/Manga/Baozimh.list"
 
 [[rulesets]]
 group = "Manhuagui"
-ruleset = "rules/AdditionalRuleList/Manga/Manhuagui.list"
+ruleset = "rules/AdditionalRuleList/rulesets/Manga/Manhuagui.list"
 
 [[rulesets]]
 group = "Telegram"
-ruleset = "rules/AdditionalRuleList/Telegram.list"
+ruleset = "rules/AdditionalRuleList/rulesets/Telegram.list"
 
 [[rulesets]]
 group = "Proxies"
-ruleset = "rules/DivineEngine/Surge/Ruleset/Global.list"
+ruleset = "rules/SukkaW/Source/non_ip/global.conf"
 
 [[rulesets]]
 group = "China"
-ruleset = "rules/DivineEngine/Surge/Ruleset/China.list"
+ruleset = "rules/AdditionalRuleList/rulesets/China.list"
 
 [[rulesets]]
 group = "DIRECT"

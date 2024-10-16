@@ -55,6 +55,20 @@ rule = [
 ]
 
 [[custom_groups]]
+name = "AI"
+type = "select"
+rule = [
+    "[]US",
+    "[]JP",
+    "[]SG",
+    "[]TW",
+    "[]HK",
+    "[]Proxies",
+    "[]China",
+    ".*"
+]
+
+[[custom_groups]]
 name = "GameDirect"
 type = "select"
 rule = [
