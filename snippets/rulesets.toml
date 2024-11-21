@@ -27,6 +27,10 @@ group = "GMail"
 ruleset = "rules/AdditionalRuleList/rulesets/GMail.list"
 
 [[rulesets]]
+group = "SteamProxy"
+ruleset = "rules/AdditionalRuleList/rulesets/SteamProxy.list"
+
+[[rulesets]]
 group = "Steam"
 ruleset = "rules/AdditionalRuleList/rulesets/Steam.list"
 

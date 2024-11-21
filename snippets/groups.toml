@@ -1,4 +1,18 @@
 [[custom_groups]]
+name = "SteamProxy"
+type = "select"
+rule = [
+    "[]Proxies",
+    "[]China",
+    "[]HK",
+    "[]SG",
+    "[]JP",
+    "[]TW",
+    "[]US",
+    "[]DIRECT"
+]
+
+[[custom_groups]]
 name = "Steam"
 type = "select"
 rule = [
