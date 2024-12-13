@@ -78,8 +78,7 @@ rule = [
     "[]TW",
     "[]HK",
     "[]Proxies",
-    "[]China",
-    ".*"
+    "[]China"
 ]
 
 [[custom_groups]]
@@ -281,7 +280,6 @@ rule = [
     "[]JP",
     "[]TW",
     "[]US",
-    ".*",
     "[]DIRECT"
 ]
 
