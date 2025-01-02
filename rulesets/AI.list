@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,generativelanguage.googleapis.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,generativeai.google
@@ -57,3 +58,7 @@ DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,copilot.microsoft.com
 #Jetbrains
 DOMAIN-SUFFIX,jetbrains.ai
+#github vscode
+DOMAIN-SUFFIX,githubcopilot.com
+#cursor
+DOMAIN-SUFFIX,cursor.sh
