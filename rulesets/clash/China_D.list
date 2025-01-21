@@ -1,0 +1,71 @@
+payload:
+# China Area Network
+  - '+.flyert.com'
+  - '+.gandi.net'
+  - '+.snapdrop.net'
+  - '+.download.jetbrains.com'
+  - '+.origin-a.akamaihd.net'
+# ---(Microsoft)---
+# > Outlook
+  - '+.outlook.office365.com'
+  - '+.smtp-mail.outlook.com'
+  - '+.smtp.office365.com'
+# > Windows Server Update Services
+  - '+.dl.delivery.mp.microsoft.com'
+  - '+.update.microsoft.com'
+  - '+.windowsupdate.com'
+  - '+.windowsupdate.microsoft.com'
+  - '+.download.microsoft.com'
+  - '+.wustat.windows.com'
+  - '+.ntservicepack.microsoft.com'
+# ------
+# > PayPal
+  - '+.paypal.com'
+  - '+.paypal.me'
+  - '+.paypal-mktg.com'
+  - '+.paypalobjects.com'
+# > Steam
+  - '+.cm.steampowered.com'
+  - '+.steamserver.net'
+# > IP Query
+  - '+.ip.istatmenus.app'
+  - '+.sms.imagetasks.com'
+# > Speed Test
+  - '+.netspeedtestmaster.com'
+  - '+.speedtest.macpaw.com'
+# > Private Tracker
+  - '+.acg.rip'
+  - '+.animebytes.tv'
+  - '+.awesome-hd.me'
+  - '+.broadcasthe.net'
+  - '+.chdbits.co'
+  - '+.classix-unlimited.co.uk'
+  - '+.comicat.org'
+  - '+.empornium.me'
+  - '+.gazellegames.net'
+  - '+.hdbits.org'
+  - '+.hdchina.org'
+  - '+.hddolby.com'
+  - '+.hdhome.org'
+  - '+.hdsky.me'
+  - '+.icetorrent.org'
+  - '+.jpopsuki.eu'
+  - '+.keepfrds.com'
+  - '+.madsrevolution.net'
+  - '+.morethan.tv'
+  - '+.m-team.cc'
+  - '+.myanonamouse.net'
+  - '+.nanyangpt.com'
+  - '+.ncore.cc'
+  - '+.open.cd'
+  - '+.ourbits.club'
+  - '+.passthepopcorn.me'
+  - '+.privatehd.to'
+  - '+.pterclub.com'
+  - '+.redacted.ch'
+  - '+.springsunday.net'
+  - '+.tjupt.org'
+  - '+.totheglory.im'
+
+# Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
+#GEOIP,CN,no-resolve
