@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,69shuba.pro
 DOMAIN-SUFFIX,69shuba.cx
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,pnpm.io
-DOMAIN,ip.cn
+DOMAIN-SUFFIX,ip.cn
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipdata.co
@@ -28,8 +28,6 @@ DOMAIN-SUFFIX,ipregistry.co
 DOMAIN-SUFFIX,ipgeolocation.io
 DOMAIN-SUFFIX,db-ip.com
 DOMAIN-SUFFIX,ipstack.com
-DOMAIN-KEYWORD,majsoul
-DOMAIN-KEYWORD,maj-soul
 DOMAIN-KEYWORD,rarbg
 DOMAIN-KEYWORD,btbtt
 DOMAIN-KEYWORD,bt4g
