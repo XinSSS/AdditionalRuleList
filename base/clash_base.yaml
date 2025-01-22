@@ -229,6 +229,7 @@ dns:
     - storeedgefd.dsx.mp.microsoft.com
     - baidu.com
     - dlg.io.mi.com
+    - +.mahjong-jp.net
     - "+.market.xiaomi.com"
     
 
