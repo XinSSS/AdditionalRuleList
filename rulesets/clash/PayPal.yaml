@@ -1,6 +1,0 @@
-payload:
-# > PayPal
-  - '+.paypal.com'
-  - '+.paypal.me'
-  - '+.paypal-mktg.com'
-  - '+.paypalobjects.com'
