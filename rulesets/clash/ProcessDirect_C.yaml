@@ -1,6 +1,9 @@
 payload:  
   - PROCESS-NAME,uTorrent.exe
   - PROCESS-NAME,qbittorrent.exe
+  - PROCESS-NAME,BiglyBT.exe
+  - PROCESS-NAME,BiglyBT-console.exe
+  - PROCESS-NAME,BiglyBTTor.exe
   - PROCESS-NAME,BitComet.exe
   - PROCESS-NAME,BitComet_x64.exe
   - PROCESS-NAME,transmission-qt.exe
