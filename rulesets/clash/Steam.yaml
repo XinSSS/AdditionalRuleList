@@ -9,6 +9,7 @@ payload:
   - '+.clientconfig.akamai.steamtransparent.com'
   - '+.steampipe.akamaized.net'
   - '+.steampowered.com.edgesuite.net'
+  - '+.steamserver.net'
   - 'steambroadcast.akamaized.net'
   - 'steamcdn-a.akamaihd.net'
   - 'steamcommunity-a.akamaihd.net'
