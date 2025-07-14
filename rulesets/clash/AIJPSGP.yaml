@@ -7,4 +7,8 @@ payload:
   - '+.bytelemon.com'
   - '+.mchost.guru'
   - '+.trae.ai'
+  - 'copilot-proxy.githubusercontent.com'
+  - '+.githubcopilot.com'
+  - 'api.github.com'
+  - '+.copilot.microsoft.com'
   
