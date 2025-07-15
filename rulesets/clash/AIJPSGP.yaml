@@ -11,4 +11,10 @@ payload:
   - '+.githubcopilot.com'
   - 'api.github.com'
   - '+.copilot.microsoft.com'
+  - '+.jetbrains.ai'
+  - '+.grazie.ai'
+  - '+.grazie.aws.intellij.net'
+  - '+.jetbrains.ai'
+  - '+.jetbrains.io'
+  - '+.grazie.aws.intellij.net'
   
