@@ -38,6 +38,7 @@ payload:
   - PROCESS-NAME,QQ.exe
   - PROCESS-NAME,CBox.exe
   - PROCESS-NAME,SunloginClient.exe
+  - PROCESS-NAME,AweSun.exe
   - PROCESS-NAME,ToDesk_Lite.exe
   - PROCESS-NAME,ToDesk.exe
   - PROCESS-NAME,localsend_app.exe
