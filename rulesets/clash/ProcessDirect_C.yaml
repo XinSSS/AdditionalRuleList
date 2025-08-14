@@ -27,6 +27,8 @@ payload:
   - PROCESS-NAME,PikPak.exe
   - PROCESS-NAME,DownloadServer.exe
   - PROCESS-NAME,115.exe
+  - PROCESS-NAME,Weixin.exe
+  - PROCESS-NAME,WeChatAppEx.exe
   - PROCESS-NAME,uu.exe
   - PROCESS-NAME,uu_ball.exe
   - PROCESS-NAME,VeryKuai.exe
