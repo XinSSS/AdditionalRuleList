@@ -12,15 +12,16 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,openai
-# DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-# DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-# DOMAIN,openaicomproductionae4b.blob.core.windows.net
-# DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
 # Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
 # Google Gemini
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
@@ -55,10 +56,10 @@ DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
 # OpenArt
 DOMAIN-SUFFIX,openart.ai
-DOMAIN-SUFFIX,copilot.microsoft.com
-#Jetbrains
-DOMAIN-SUFFIX,jetbrains.ai
-#github vscode
-DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,groq.com
 #cursor
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,auth0.com

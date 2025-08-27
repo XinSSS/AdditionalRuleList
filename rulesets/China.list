@@ -3,33 +3,7 @@ DOMAIN-SUFFIX,flyert.com
 DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,snapdrop.net
 DOMAIN,download.jetbrains.com
-DOMAIN,origin-a.akamaihd.net
-# ---(Microsoft)---
-# > Outlook
-DOMAIN,outlook.office365.com
-DOMAIN,smtp-mail.outlook.com
-DOMAIN,smtp.office365.com
-# > Windows Server Update Services
-DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
-DOMAIN-SUFFIX,update.microsoft.com
-DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN-SUFFIX,windowsupdate.microsoft.com
-DOMAIN,download.microsoft.com
-DOMAIN,wustat.windows.com
-DOMAIN,ntservicepack.microsoft.com
-# ------
-# > PayPal
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypal.me
-DOMAIN-SUFFIX,paypal-mktg.com
-DOMAIN-SUFFIX,paypalobjects.com
-# > Steam
-DOMAIN-SUFFIX,cm.steampowered.com
-DOMAIN-SUFFIX,steamserver.net
-# > Tencent
-IP-CIDR,182.254.116.0/24,no-resolve
-IP-CIDR,203.205.238.0/23,no-resolve
-IP-CIDR,203.205.254.0/23,no-resolve
+
 # > IP Query
 DOMAIN,ip.istatmenus.app
 DOMAIN,sms.imagetasks.com
@@ -70,6 +44,13 @@ DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,myqcloud.com
-
-# Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
-#GEOIP,CN,no-resolve
+DOMAIN-SUFFIX,3.cn
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jd.com.cn
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jdpay.com
+DOMAIN-SUFFIX,jdcloud.com
+DOMAIN-SUFFIX,jdcache.com
+DOMAIN-SUFFIX,jcloudcache.com
+DOMAIN-SUFFIX,jdcdn.com

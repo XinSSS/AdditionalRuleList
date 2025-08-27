@@ -10,8 +10,10 @@ payload:
   - DOMAIN-SUFFIX,office.net
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN,software-download.microsoft.com
   - DOMAIN-KEYWORD,-microsoft-com.akamaized.net

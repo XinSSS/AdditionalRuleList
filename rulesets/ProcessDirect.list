@@ -26,6 +26,8 @@ PROCESS-NAME,115chrome.exe
 PROCESS-NAME,PikPak.exe
 PROCESS-NAME,DownloadServer.exe
 PROCESS-NAME,115.exe
+PROCESS-NAME,Weixin.exe
+PROCESS-NAME,WeChatAppEx.exe
 PROCESS-NAME,uu.exe
 PROCESS-NAME,uu_ball.exe
 PROCESS-NAME,VeryKuai.exe
@@ -37,6 +39,7 @@ PROCESS-NAME,哔哩哔哩.exe
 PROCESS-NAME,QQ.exe
 PROCESS-NAME,CBox.exe
 PROCESS-NAME,SunloginClient.exe
+PROCESS-NAME,AweSun.exe
 PROCESS-NAME,ToDesk_Lite.exe
 PROCESS-NAME,ToDesk.exe
 PROCESS-NAME,localsend_app.exe

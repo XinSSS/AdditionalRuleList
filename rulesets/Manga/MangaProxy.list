@@ -11,8 +11,6 @@ DOMAIN-SUFFIX,colamanga.com
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,hath.network
-#DOMAIN-REGEX,zerobyw.*\.com
-DOMAIN-KEYWORD,zerobyw
 DOMAIN-SUFFIX,acgvd.com
 DOMAIN-SUFFIX,acgwd.com
 DOMAIN-SUFFIX,idoit.one
@@ -32,13 +30,10 @@ DOMAIN-SUFFIX,18comic.org
 DOMAIN-SUFFIX,jmcomic.me
 DOMAIN-SUFFIX,jmcomic1.me
 DOMAIN-SUFFIX,wnacg.com
-#DOMAIN-REGEX,hm.*\.lol
 DOMAIN-SUFFIX,hm16.lol
 DOMAIN-SUFFIX,wnimg.ru
 DOMAIN-SUFFIX,qy0.ru
 DOMAIN-SUFFIX,rouman5.com
-#DOMAIN-REGEX,roum.*\.xyz
-#DOMAIN-REGEX,rmcdn.*\.xyz
 DOMAIN-SUFFIX,mangadex.org
 DOMAIN-SUFFIX,mangadex.network
 DOMAIN-SUFFIX,aicomic.org
@@ -46,3 +41,8 @@ DOMAIN-SUFFIX,komiic.com
 DOMAIN-SUFFIX,mangacopy.com
 DOMAIN-SUFFIX,mangafuna.xyz
 DOMAIN-SUFFIX,mangafunb.fun
+DOMAIN-KEYWORD,zerobyw
+#DOMAIN-REGEX,roum.*\.xyz
+#DOMAIN-REGEX,rmcdn.*\.xyz
+#DOMAIN-REGEX,hm.*\.lol
+#DOMAIN-REGEX,zerobyw.*\.com

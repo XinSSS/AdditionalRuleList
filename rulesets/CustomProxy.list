@@ -29,8 +29,11 @@ DOMAIN-SUFFIX,ipgeolocation.io
 DOMAIN-SUFFIX,db-ip.com
 DOMAIN-SUFFIX,ipstack.com
 DOMAIN-SUFFIX,mahjong-jp.com
-DOMAIN-SUFFIX,lizhimahjong.com
-DOMAIN-SUFFIX,sanbeiman.com
+DOMAIN-SUFFIX,bt4gprx.com
+DOMAIN-SUFFIX,bt4g.org
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,glodls.to
 DOMAIN-SUFFIX,demonoid.is
 DOMAIN-SUFFIX,torrentgalaxy.to
@@ -40,9 +43,6 @@ DOMAIN-SUFFIX,topcpu.net
 DOMAIN-SUFFIX,torrentdownloads.pro
 DOMAIN-SUFFIX,emby.pilipiliultra.com
 DOMAIN-SUFFIX,manga.pilipiliultra.com
-DOMAIN-KEYWORD,rarbg
-DOMAIN-KEYWORD,btbtt
-DOMAIN-KEYWORD,bt4g
 #PROCESS-NAME,HD-Player.exe
 PROCESS-NAME,ONENOTE.EXE
 PROCESS-NAME,Discord.exe
