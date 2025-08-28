@@ -2,7 +2,8 @@
 DOMAIN-SUFFIX,flyert.com
 DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,snapdrop.net
-DOMAIN,download.jetbrains.com
+DOMAIN-SUFFIX,download.jetbrains.com
+DOMAIN-SUFFIX,download-cdn.jetbrains.com
 
 # > IP Query
 DOMAIN,ip.istatmenus.app
