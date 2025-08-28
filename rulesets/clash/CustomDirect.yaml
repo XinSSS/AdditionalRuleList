@@ -70,3 +70,5 @@ payload:
   - 'checkip.amazonaws.com'
   - '+.immersivetranslate.com'
   - '+.immersivetranslate.cn'
+  - '+.download.jetbrains.com'
+  - '+.download-cdn.jetbrains.com'
