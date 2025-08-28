@@ -30,6 +30,7 @@ payload:
   - '+.cloudappsecurity.com'
   - '+.sway-extensions.com'
   - '+.windowsupdate.com'
+  - '+.windowssearch.com'
   - '+.outlookmobile.com'
   - '+.assets-yammer.com'
   - '+.xboxservices.com'
