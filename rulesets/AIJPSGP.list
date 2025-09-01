@@ -16,4 +16,6 @@ DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,jetbrains.io
 DOMAIN-SUFFIX,cloudconfig.jetbrains.com
 DOMAIN-SUFFIX,grazie.aws.intellij.net
+DOMAIN-SUFFIX,qoder.sh
+DOMAIN-SUFFIX,qoder.com
 DOMAIN,api.github.com
