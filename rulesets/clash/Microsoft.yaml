@@ -1,5 +1,6 @@
 payload:
   - '+.microsoft.com'
+  - '*-microsoft.com'
   - '+.hotmail.com'
   - '+.trafficmanager.net'
   - '+.msftauthimages.net'
