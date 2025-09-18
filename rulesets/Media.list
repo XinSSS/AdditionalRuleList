@@ -1,6 +1,6 @@
-#linear-abematv.akamaized.net
-#ds-linear-abematv.akamaized.net
-abema.tv
-abema-tv.com
-api-abematv.bucketeer.jp
-abema.io
+#DOMAIN-SUFFIX,linear-abematv.akamaized.net
+#DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,abema-tv.com
+DOMAIN-SUFFIX,api-abematv.bucketeer.jp
+DOMAIN-SUFFIX,abema.io
