@@ -1,2 +1,4 @@
 payload:
   - '+.api-abematv.bucketeer.jp'
+  - '+.linear-abematv.akamaized.net'
+  - '+.ds-linear-abematv.akamaized.net'
