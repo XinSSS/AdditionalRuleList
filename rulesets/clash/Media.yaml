@@ -1,5 +1,2 @@
-payload:  
-  - '+.abema.tv'
-  - '+.abema-tv.com'
+payload:
   - '+.api-abematv.bucketeer.jp'
-  - '+.abema.io'
