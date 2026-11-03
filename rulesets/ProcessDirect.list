@@ -32,6 +32,9 @@ PROCESS-NAME,uu.exe
 PROCESS-NAME,uu_ball.exe
 PROCESS-NAME,VeryKuai.exe
 PROCESS-NAME,vkproxy.exe
+PROCESS-NAME,vkhostproxy.exe
+PROCESS-NAME,vkdns.exe
+PROCESS-NAME,vkconacc.exe
 PROCESS-NAME,uu_render.exe
 PROCESS-NAME,leigod.exe
 PROCESS-NAME,DouyuLive.exe
